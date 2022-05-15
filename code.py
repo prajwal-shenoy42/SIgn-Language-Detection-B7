@@ -3,13 +3,13 @@ import os
 import time
 import uuid
 
-IMAGES_PATH = '/home/shen42/Documents/Final Year project/Sign-Language-Detection-B7/Tensorflow/workspace/images/collectedimages'
+IMAGES_PATH = '/home/shen42/Documents/Final Year project/Sign-Language-Detection-B7/Tensorflow/workspace/images/collectedimages-prajwal'
 
 labels = ['hello', 'thanks', 'yes', 'no', 'iloveyou']
 number_imgs = 15
 
 for label in labels:
-    path = '/home/shen42/Documents/Final Year project/Sign-Language-Detection-B7/Tensorflow/workspace/images/collectedimages/' + label
+    path = '/home/shen42/Documents/Final Year project/Sign-Language-Detection-B7/Tensorflow/workspace/images/collectedimages-prajwal/' + label
     os.mkdir(path)
     cap = cv2.VideoCapture(0)
     print('Collecting Images for {}'.format(label))
