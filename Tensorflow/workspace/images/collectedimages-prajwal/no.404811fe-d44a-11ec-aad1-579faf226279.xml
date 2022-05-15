@@ -1,7 +1,7 @@
 <annotation>
-	<folder>collectedimages-prajwal</folder>
-	<filename>no.6d198ad0-d442-11ec-aad1-579faf226279.jpg</filename>
-	<path>/home/shen42/Documents/Final Year project/Sign-Language-Detection-B7/Tensorflow/workspace/images/collectedimages-prajwal/no.6d198ad0-d442-11ec-aad1-579faf226279.jpg</path>
+	<folder>no</folder>
+	<filename>no.404811fe-d44a-11ec-aad1-579faf226279.jpg</filename>
+	<path>/home/shen42/Documents/Final Year project/Sign-Language-Detection-B7/Tensorflow/workspace/images/collectedimages-prajwal/no/no.404811fe-d44a-11ec-aad1-579faf226279.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>106</xmin>
-			<ymin>277</ymin>
+			<xmin>157</xmin>
+			<ymin>272</ymin>
 			<xmax>608</xmax>
-			<ymax>573</ymax>
+			<ymax>651</ymax>
 		</bndbox>
 	</object>
 </annotation>
