@@ -5,8 +5,8 @@ import uuid
 
 IMAGES_PATH = r'C:\Users\bipla\FYP\Sign-Language-Detection-B7\Tensorflow\workspace\images\collectedimages-biplab'
 
-labels = ['no']
-number_imgs = 16
+labels = ['hello', 'thanks', 'yes', 'no', 'iloveyou']
+number_imgs = 15
 
 for label in labels:
     path = r'C:\Users\bipla\FYP\Sign-Language-Detection-B7\Tensorflow\workspace\images\collectedimages-biplab\\' + label
