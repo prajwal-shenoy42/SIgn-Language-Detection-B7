@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.07b7407f-d530-11ec-bb30-c4b4247b112d.jpg</filename>
+	<path>C:\Users\bipla\FYP\Sign-Language-Detection-B7\Tensorflow\workspace\images\collectedimages-biplab\no\no.07b7407f-d530-11ec-bb30-c4b4247b112d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>230</ymin>
+			<xmax>640</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>
