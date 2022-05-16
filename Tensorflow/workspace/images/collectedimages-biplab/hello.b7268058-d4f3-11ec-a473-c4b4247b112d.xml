@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages-biplab</folder>
+	<filename>hello.b7268058-d4f3-11ec-a473-c4b4247b112d.jpg</filename>
+	<path>C:\Users\bipla\FYP\Sign-Language-Detection-B7\Tensorflow\workspace\images\collectedimages-biplab\hello.b7268058-d4f3-11ec-a473-c4b4247b112d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>168</ymin>
+			<xmax>245</xmax>
+			<ymax>455</ymax>
+		</bndbox>
+	</object>
+</annotation>
