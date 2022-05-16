@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages-yashas</folder>
+	<filename>thanks.a5eabe04-d540-11ec-8eee-d8f2ca0c53ea.jpg</filename>
+	<path>S:\PROJECT\Sign-Language-Detection-B7\Tensorflow\workspace\images\collectedimages-yashas\thanks.a5eabe04-d540-11ec-8eee-d8f2ca0c53ea.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>309</ymin>
+			<xmax>582</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+</annotation>
