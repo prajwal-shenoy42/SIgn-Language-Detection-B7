@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages-yashas</folder>
+	<filename>yes.c86557f0-d540-11ec-949b-d8f2ca0c53ea.jpg</filename>
+	<path>S:\PROJECT\Sign-Language-Detection-B7\Tensorflow\workspace\images\collectedimages-yashas\yes.c86557f0-d540-11ec-949b-d8f2ca0c53ea.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>357</ymin>
+			<xmax>528</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
