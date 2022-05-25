@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages-prajwal</folder>
+	<filename>yes.5a14bc02-d442-11ec-aad1-579faf226279.jpg</filename>
+	<path>/home/shen42/Documents/Final Year project/Sign-Language-Detection-B7/Tensorflow/workspace/images/collectedimages-prajwal/yes.5a14bc02-d442-11ec-aad1-579faf226279.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>672</xmin>
+			<ymin>253</ymin>
+			<xmax>1066</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>
