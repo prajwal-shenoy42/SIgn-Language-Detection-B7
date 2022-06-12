@@ -1,7 +1,7 @@
 <annotation>
 	<folder>hello</folder>
 	<filename>hello.eba0c254-d545-11ec-984d-8bea4702c6b0.jpg</filename>
-	<path>C:\College Projects\Sign-Language-Detection-B7\Tensorflow\workspace\images\collectedimages-abish\hello\hello.eba0c254-d545-11ec-984d-8bea4702c6b0.jpg</path>
+	<path>/home/shen42/Documents/GitHub/Sign-Language-Detection-B7/Tensorflow/workspace/images/train/hello.eba0c254-d545-11ec-984d-8bea4702c6b0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
