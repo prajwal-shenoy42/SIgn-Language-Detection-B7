@@ -1,7 +1,11 @@
 import os
 import cv2
-import sys 
-print(sys.path)
+import sys
+
+
+sys.path.append( os.path.abspath(os.getcwd()) + '\\Tensorflow\\models\\research')
+
+
 import numpy as np
 import tensorflow as tf
 from object_detection.utils import label_map_util
@@ -29,7 +33,7 @@ detection_model = model_builder.build(model_config=configs['model'], is_training
  
  # Restore checkpoint
 ckpt = tf.compat.v2.train.Checkpoint(model=detection_model)
-ckpt.restore(os.path.join(CHECKPOINT_PATH, 'ckpt-6')).expect_partial()
+ckpt.restore(os.path.join(CHECKPOINT_PATH, 'ckpt-51')).expect_partial()
  
 @tf.function
 def detect_fn(image):
@@ -74,4 +78,3 @@ while True:
          cap.release()
          break
 detections = detect_fn(input_tensor)
-  
