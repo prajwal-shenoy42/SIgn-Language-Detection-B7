@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yes</folder>
+	<filename>yes.2b513db4-d546-11ec-a1b8-8bea4702c6b0.jpg</filename>
+	<path>/home/shen42/Documents/GitHub/Sign-Language-Detection-B7/Tensorflow/workspace/images/train/yes.2b513db4-d546-11ec-a1b8-8bea4702c6b0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>280</ymin>
+			<xmax>639</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

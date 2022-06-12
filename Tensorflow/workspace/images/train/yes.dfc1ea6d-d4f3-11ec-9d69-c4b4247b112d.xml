@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages-biplab</folder>
+	<filename>yes.dfc1ea6d-d4f3-11ec-9d69-c4b4247b112d.jpg</filename>
+	<path>/home/shen42/Documents/GitHub/Sign-Language-Detection-B7/Tensorflow/workspace/images/train/yes.dfc1ea6d-d4f3-11ec-9d69-c4b4247b112d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>257</ymin>
+			<xmax>251</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

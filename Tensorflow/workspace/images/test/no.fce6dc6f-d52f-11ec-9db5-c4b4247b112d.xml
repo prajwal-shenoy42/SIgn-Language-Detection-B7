@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.fce6dc6f-d52f-11ec-9db5-c4b4247b112d.jpg</filename>
+	<path>/home/shen42/Documents/GitHub/Sign-Language-Detection-B7/Tensorflow/workspace/images/test/no.fce6dc6f-d52f-11ec-9db5-c4b4247b112d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>235</ymin>
+			<xmax>287</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

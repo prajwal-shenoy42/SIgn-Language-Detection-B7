@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages-biplab</folder>
+	<filename>hello.a34ffb85-d4f3-11ec-b356-c4b4247b112d.jpg</filename>
+	<path>/home/shen42/Documents/GitHub/Sign-Language-Detection-B7/Tensorflow/workspace/images/train/hello.a34ffb85-d4f3-11ec-b356-c4b4247b112d.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>177</ymin>
+			<xmax>248</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>
