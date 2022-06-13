@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_1304.JPEG</filename>
+	<path>/home/shen42/Desktop/training 2/test/IMG_1304.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>658</ymin>
+			<xmax>1074</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>

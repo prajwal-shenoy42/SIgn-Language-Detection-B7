@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_1456.JPG</filename>
+	<path>/home/shen42/Desktop/Thank you/test/IMG_1456.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>657</xmin>
+			<ymin>1184</ymin>
+			<xmax>3010</xmax>
+			<ymax>2309</ymax>
+		</bndbox>
+	</object>
+</annotation>
