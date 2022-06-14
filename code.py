@@ -33,7 +33,7 @@ detection_model = model_builder.build(model_config=configs['model'], is_training
  
  # Restore checkpoint
 ckpt = tf.compat.v2.train.Checkpoint(model=detection_model)
-ckpt.restore(os.path.join(CHECKPOINT_PATH, 'ckpt-51')).expect_partial()
+ckpt.restore(os.path.join(CHECKPOINT_PATH, 'ckpt-26')).expect_partial()
  
 @tf.function
 def detect_fn(image):
@@ -69,8 +69,8 @@ while True:
          detections['detection_scores'],
          category_index,
          use_normalized_coordinates=True,
-         max_boxes_to_draw=5,
-         min_score_thresh=.5,
+         max_boxes_to_draw=2,
+         min_score_thresh=.93,
          agnostic_mode=False)
      cv2.imshow('object detection',cv2.resize(image_np_with_detections, (800, 600)))
   
