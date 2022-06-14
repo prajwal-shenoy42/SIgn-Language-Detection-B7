@@ -1,4 +1,4 @@
 Tensorflow/models
-Tensorflow/workspace/images
 Tensorflow/workspace/annotations/train.record
 Tensorflow/workspace/annotations/test.record
+Tensorflow/workspace/models/my_ssd_mobnet/train/events.out.tfevents.1655146418.Odin.24326.0.v2

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>Abish_Yes (10).jpg</filename>
+	<path>/home/shen42/Documents/GitHub/Sign-Language-Detection-B7/Tensorflow/workspace/images/test/Abish_Yes (10).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1769</xmin>
+			<ymin>1280</ymin>
+			<xmax>2243</xmax>
+			<ymax>1718</ymax>
+		</bndbox>
+	</object>
+</annotation>
