@@ -1,2 +1,4 @@
 Tensorflow/models
 Tensorflow/workspace/images
+Tensorflow/workspace/annotations/train.record
+Tensorflow/workspace/annotations/test.record
